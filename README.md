@@ -1,2 +1,2 @@
-# array-destructuring
+# Array Destructuring
 Learn about Array Destructuring.
